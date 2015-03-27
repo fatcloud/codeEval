@@ -10,8 +10,8 @@ def evaluate(item):
 def expand(item_list):
     sorted(item_list, key=ord)
     ret = []
-    for i in range(len(item_list)):
-        
+    #for i in range(len(item_list)):
+
 
 
 
